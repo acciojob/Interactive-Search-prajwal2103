@@ -19,6 +19,9 @@
 	font-size:20px;
 	
 }
+input{
+	outline:none;
+}
 button{
 	font-size:20px !important;
 }
