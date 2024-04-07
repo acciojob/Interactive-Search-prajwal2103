@@ -19,9 +19,9 @@
 	font-size:20px;
 	
 }
-input{
-	outline:none;
-}
+/* .active input{
+	outline:auto;
+} */
 button{
 	font-size:20px !important;
 }
